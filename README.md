@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giovanni dos Santos Berti (@giovanni-sb)
 - 👀 I’m interested in Programming, Gaming, Sports and Content Creation
-- 🌱 I’m currently learning Web Programming (JS/TS) and Python
+<!--- - 🌱 I’m currently learning Web Programming (JS/TS) and Python --->
 - 💞️ I’m looking to collaborate on programs I use or find interesting
 - 📫 How to reach me: giovannidossb@gmail.com or t.me/gijo0
 
